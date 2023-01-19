@@ -3,7 +3,7 @@
 
 ## Data Information :
 
-### Data have total 3000 audio files contains audio of the different persons.
+### Data have total 3000 audio files contains audio of the persons.
 ### Data contains have total 10 unique labels, we will classify 10 labels based on audio data.
 
 
